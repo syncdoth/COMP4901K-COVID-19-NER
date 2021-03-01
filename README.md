@@ -1,5 +1,7 @@
 # COMP4901K-Project
 
+This is a course project of COMP 4901k - Machine Learning for NLP provided by prof. Yangqiu Song at HKUST, 2020 fall. The task was to perform NER (Named Entity Recognition) task on COVID-19 data.
+
 # Members
 * Jayeol Lee (20308109)
 * Kyu Doun Sim (20306527)
